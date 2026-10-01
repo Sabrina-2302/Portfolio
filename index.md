@@ -1,2 +1,2 @@
 shdfkjzh
-[Activite 1/activite1.md]
+[[Activite 1/activite1.md]]
